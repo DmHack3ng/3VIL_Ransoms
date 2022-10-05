@@ -26,7 +26,7 @@ The PowerFull Persistence Ransomware
 > 
 > cd 3vil Ransoms 
 > 
-> pip3 instal pyinstaller 
+> pip3 install pyinstaller 
 >
 > pyinstaller -F --noconsole 3vil_ransoms.py 
 
